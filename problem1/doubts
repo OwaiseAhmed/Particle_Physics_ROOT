@@ -1,0 +1,6 @@
+why new Tree = (TTree*)file->("events") works 
+but TTree* Tree does not work
+
+
+
+
